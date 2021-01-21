@@ -1,6 +1,3 @@
 key_environment: application-prod
 key_es: application-es-prod
 key_application-prod: application-prod
-key_list_ips:
-  - 192.168.1.0
-  - 192.168.1.1
